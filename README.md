@@ -1,2 +1,2 @@
 # spring-jpa
-Example how to configure database in spring withouf any config, only application.properties
+Example how to configure database in spring without any spring config, use application.properties instead
